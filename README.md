@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @Nirajan
-- 👀 I’m interested in creation.
-currently, i am learning c, javascript languages .
-- 🌱 I’m currently learning computer science and IT (Bsc.CSIT) in Nepal(asia).
-
-- 💞️ I’m looking to collaborate on new projects.
 - 📫 reach me: nirajanbhattarai12345@gmail.com
             https://www.instagram.com/nirajan_______________/
                 www.linkedin.com/in/nirajan-bhattarai-9847106343
