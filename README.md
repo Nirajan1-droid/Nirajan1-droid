@@ -2,10 +2,16 @@
 - Currently learning devops and advanced alogorithms
 
 
-- 📫 reach me: nirajanbhattarai12345@gmail.com
+- 📫 reach me:
             <a href ="https://www.instagram.com/nirajan_______________/"> Instagram</a>
+            <br>
             <a href ="www.linkedin.com/in/nirajan-bhattarai-9847106343">linkedin</a>
+            <br>
             <a href ="https://www.facebook.com/people/Nirajan-Bhattarai/100010510514294/">facebook</a>
+            <br>
+
+<br><br>
+if important:<a href="nirajanbhattarai12345@gmail.com">mail me</a>
 <!---
 Nirajan1-droid/Nirajan1-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
