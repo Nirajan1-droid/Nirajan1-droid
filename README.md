@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Nirajan das, disciple of <a href ="[https://www.jagatgururampalji.org/en/publications](https://www.jagatgururampalji.org/en/life-history-sant-rampal-ji)"> sant rampal ji maharaj</a>
+- 👋 Hi, I’m @Nirajan das, disciple of <a href ="https://www.jagatgururampalji.org/en/life-history-sant-rampal-ji"> sant rampal ji maharaj</a>
+
 
 - 📫 reach me: nirajanbhattarai12345@gmail.com
             https://www.instagram.com/nirajan_______________/
