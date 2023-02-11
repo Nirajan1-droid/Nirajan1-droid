@@ -3,8 +3,9 @@
 
 
 - 📫 reach me: nirajanbhattarai12345@gmail.com
-            https://www.instagram.com/nirajan_______________/
-                www.linkedin.com/in/nirajan-bhattarai-9847106343
+            <a href =https://www.instagram.com/nirajan_______________/">Instagram</a>
+            <a href ="www.linkedin.com/in/nirajan-bhattarai-9847106343">linkedin</a>
+            <a href ="https://www.facebook.com/people/Nirajan-Bhattarai/100010510514294/">facebook</a>
 <!---
 Nirajan1-droid/Nirajan1-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
