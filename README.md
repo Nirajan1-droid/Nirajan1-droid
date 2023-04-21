@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nirajan das, disciple of <a href ="https://www.jagatgururampalji.org/en/life-history-sant-rampal-ji"> sant rampal ji maharaj</a>
+- 👋 Hi, I’m @Nirajan , disciple of <a href ="https://www.jagatgururampalji.org/en/life-history-sant-rampal-ji"> sant rampal ji maharaj</a>
 - Currently learning devops and advanced alogorithms
 
 
