@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirajan 
-- Currently learning devops 
+- Currently learning C#,JAVA, KAFKA 
 
 
 - 📫 reach me:
