@@ -5,7 +5,7 @@
 - 📫 reach me:
             <a href ="https://www.instagram.com/nirajan_______________/"> Instagram</a>
             <br>
-            <a href ="https://www.linkedin.com/in/nirajan-bhattarai-9847106343">linkedin</a>
+            <a href ="https://www.linkedin.com/in/nirajan-bh">linkedin</a>
             <br>
             <a href ="https://www.facebook.com/people/Nirajan-Bhattarai/100010510514294/">facebook</a>
             <br>
