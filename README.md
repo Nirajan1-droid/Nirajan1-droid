@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirajan 
-- Currently learning C#,JAVA, KAFKA 
+- Currently learning Flutter,AI/ML
 
 
 - 📫 reach me:
